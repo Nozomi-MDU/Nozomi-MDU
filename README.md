@@ -4,4 +4,17 @@
 
 <img width="1000" height="462" alt="image" src="https://github.com/user-attachments/assets/4c9ee8f6-0e07-49b6-8731-8affcc929f84" />
 
-
+<details>
+  <summary>Favorite characters from ENSTARS</summary>
+ 
+  -  Rei Sakuma (💜)
+  -  Nozomi Madoka (🩷)
+  - Mayoi Ayase
+  - Arashi Narukami
+  - Juis  Kojika
+  - Mashu Kuon
+  - Chitose Tsuzura
+  - Shu Itsuki
+  - Mika Kagehira
+  - Ibara Saegusa
+</details>
