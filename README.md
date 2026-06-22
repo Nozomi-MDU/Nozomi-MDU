@@ -14,6 +14,7 @@
   - Juis  Kojika
   - Mashu Kuon
   - Chitose Tsuzura
+  - Kaoru Hakaze
   - Shu Itsuki
   - Mika Kagehira
   - Ibara Saegusa
